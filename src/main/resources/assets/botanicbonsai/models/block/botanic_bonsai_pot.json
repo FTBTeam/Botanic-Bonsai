@@ -1,0 +1,6 @@
+{
+	"parent": "bonsaitrees:block/bonsaipot",
+	"textures": {
+		"0": "botania:blocks/livingrock0"
+	}
+}

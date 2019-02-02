@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "botanicbonsai:blocks/botanic_bonsai_pot_manager"
+	}
+}

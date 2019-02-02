@@ -1,0 +1,17 @@
+[
+	{
+		"modid": "botanicbonsai",
+		"name": "Botanic Bonsai",
+		"description": "",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "http://minecraft.curseforge.com/projects/botanic-bonsai",
+		"updateUrl": "",
+		"authorList": ["LatvianModder"],
+		"credits": "",
+		"logoFile": "assets/botanicbonsai/textures/logo.png",
+		"screenshots": [],
+		"parent": "",
+		"dependencies": []
+	}
+]

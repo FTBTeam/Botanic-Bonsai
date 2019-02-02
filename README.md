@@ -1,1 +1,1 @@
-# Botanic-Bonsai
+# Botanic Bonsai [![](http://cf.way2muchnoise.eu/botanic-bonsai.svg)](https://minecraft.curseforge.com/projects/botanic-bonsai) [![](http://cf.way2muchnoise.eu/versions/botanic-bonsai.svg)](https://minecraft.curseforge.com/projects/botanic-bonsai)

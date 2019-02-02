@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "bonsaitrees:bonsaipot",
+	"result": {"item": "botanic_bonsai_pot"},
+	"pattern": [
+		"MPM",
+		"MMM"
+	],
+	"key": {
+		"P": {"item": "bonsaitrees:bonsaipot", "data": 0},
+		"M": {"type": "forge:ore_dict", "ore": "livingrock"}
+	}
+}
