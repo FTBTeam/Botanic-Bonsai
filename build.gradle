@@ -86,6 +86,10 @@ if (ENV.CURSEFORGE_KEY) {
 			id = "${curseforge_id}"
 			releaseType = "release"
 			addGameVersion "${mc_version}"
+			relations {
+				requiredDependency 'bonsai-trees'
+				requiredDependency 'botania'
+			}
 			changelog = getGitChangelog
 			changelogType = 'markdown'
 			addArtifact(sourceJar)
