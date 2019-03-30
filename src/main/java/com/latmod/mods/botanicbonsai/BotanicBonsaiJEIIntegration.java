@@ -11,7 +11,7 @@ import org.dave.bonsaitrees.jei.BonsaiTreeRecipeCategory;
  * @author LatvianModder
  */
 @JEIPlugin
-public class JEIIntegration implements IModPlugin
+public class BotanicBonsaiJEIIntegration implements IModPlugin
 {
 	@Override
 	public void register(IModRegistry registry)
